@@ -2,7 +2,7 @@
 Game entirely in Italian inspired by the game "Start Survey" The game lasts 1 - 3 minutes
 
 # Information
-This little game was created for a small personal project
+This little game was created for a small personal project.
 This Game is make with Java17
 
 # How to start the game
